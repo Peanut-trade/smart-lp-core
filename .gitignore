@@ -1,0 +1,16 @@
+.idea
+node_modules
+.env
+yarn-error.log
+!artifacts/
+
+artifacts/*
+!artifacts/contracts/
+
+artifacts/contracts/*
+!artifacts/contracts/Peanut.sol/
+
+artifacts/contracts/Peanut.sol/*
+!artifacts/contracts/Peanut.sol/Peanut.json
+
+cache
